@@ -868,15 +868,16 @@ It is continued on 4am, T13S7
 
 Using our sector interleave table:
 
-|:Sector:| Order |
-| 0 |0 | 
-| 7 |1 | 
-| E |2 | 
-| 6 |3 | 
-| D |4 |  
-| 5 |5 | 
-| C |6 | 
-| 4 |7 | 
+|Sector|Fragment|
+|:-:|:-:|
+| 0 | 1 |
+| 7 | 2 |
+| E | 3 |
+| 6 | 4 |
+| D | 5 |
+| 5 | 6 |
+| C | 7 |
+| 4 | 8 |
 
 I still need to track down where this is loaded into memory.
 
