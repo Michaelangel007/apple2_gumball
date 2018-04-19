@@ -256,11 +256,10 @@ Making a table of what we have so far:
 | C | $?000 |
 | 4 | $?100 |
 
+We'll continue to inspect sector $C
 
-
-
-4am, T03SC
-Fix, T02SC
+* 4am, T03SC
+* Fix, T02SC
 
 ```asm
        F7F7F3F603C   (1) @00
@@ -349,8 +348,8 @@ a sector interleaving table.
 
 Let's inspect Sector $6
 
-4am, T03S6
-Fix, T02S6
+* 4am, T03S6
+* Fix, T02S6
 
 ```asm
 d 007F0F0000000000   (1) @01
@@ -362,8 +361,10 @@ d 07787C0300660      (13) @F1
 
 ## Fragment GB.1.f
 
-4am, T03SD
-Fix, T02SD
+Moving along,
+
+* 4am, T03SD
+* Fix, T02SD
 
 ```asm
                730   (1) @00
