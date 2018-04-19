@@ -1,4 +1,4 @@
-TARGETS = dump_list
+TARGETS = dump_list dump_sym
 all: $(TARGETS)
 
 .PHONY: clean
