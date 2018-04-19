@@ -234,7 +234,7 @@ Searching for `FC 0F E0 FF` the raw bytes on line 3 can be found at:
 * 4am, T7S5 @4C
 * Fix, T5S1 @4C
 
-From this we can deduce three, no four, no five, things:
+From this we can deduce ~three~, ~four,~ nay, five, things:
 
 * We know the first digit should be `7`,
 * That rules out Sectors $4 and $E, leaving Sector $C,
