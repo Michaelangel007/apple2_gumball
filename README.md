@@ -1155,6 +1155,8 @@ Oh well, it's been 20 years of fun knowing about these hidden treasures!
 
 Who knew that a WHOLE Track+ (20 sectors) of source was on disk!
 
+Now if only we could figure out where that `Z0DWARE` easter egg is ...
+
 
 # Appendix A: Sector Interleave
 
