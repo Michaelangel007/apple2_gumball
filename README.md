@@ -424,12 +424,10 @@ Here's a C program, [dump_list.c](dump_list.c), to dump the fragment:
         const char *name = "gumball.fragment.1.1800";
 
         if( nArg > 1 )
-        {
             name = aArg[1];
-            printf( "Filename: %s\n", name );
-        }
 
         FILE       *in   = fopen( name, "rb" );
+        printf( "Filename: %s\n", name );
 
         if( in )
         {
@@ -668,10 +666,12 @@ We can modify our `dump_list` converting it to
     int main( const int nArg, const char *aArg[] )
     {
         const char *name = "gumball.fragment.2.849a";
-        FILE       *in   = fopen( name, "rb" );
 
         if( nArg > 1 )
-            name = aArg[1];       
+            name = aArg[1];
+
+        FILE       *in   = fopen( name, "rb" );
+        printf( "Filename: %s\n", name );
 
         if( in )
         {

@@ -24,10 +24,12 @@
     int main( const int nArg, const char *aArg[] )
     {
         const char *name = "gumball.fragment.2.849a";
-        FILE       *in   = fopen( name, "rb" );
 
         if( nArg > 1 )
-            name = aArg[1];       
+            name = aArg[1];
+
+        FILE       *in   = fopen( name, "rb" );
+        printf( "Filename: %s\n", name );
 
         if( in )
         {
