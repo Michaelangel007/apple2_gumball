@@ -21,7 +21,7 @@ Revised: April 19, 2018
   * Fragment GB.2.All
   * Fragment GB.3.a
   * Fragmnet GB.3.b
-  * Fragment GB.3.All (TODO)
+  * Fragment GB.3.All
 * Hints Revisited
 * Hall of Fame
   * Credits
