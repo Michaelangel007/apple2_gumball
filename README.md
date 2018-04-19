@@ -52,8 +52,7 @@ And the only way to view them is to either
 We'll be using a "cracked" copy -- specifically
 games that have been converted over to a standard
 Track/Sector format.  We'll also be using a sector
-editor -- "Copy ][ Plus" is the standard 'go to too'
-that we'll use.
+editor -- "Copy ][ Plus" as it is the standard 'go to tool'.
 
 
 # Pictures
