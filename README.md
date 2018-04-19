@@ -8,23 +8,23 @@ Revised: April 19, 2018
 * Pre-requisites
 * In-game Hints
 * Long Lost Gumball Source Code!
-** Fragment GB.1.a
-** Fragment GB.1.b
-** Fragment GB.1.c
-** Fragment GB.1.d
-** Fragment GB.1.e
-** Fragment GB.1.f
-** Dump Listing
-** Fragment GB.1.All
-** Fragment GB.2
-** Dump Symbols
-** Fragment GB.2.All
-** Fragment GB.3.a
-** Fragmnet GB.3.b
-** Fragment GB.3.All (TODO)
+  ** Fragment GB.1.a
+  ** Fragment GB.1.b
+  ** Fragment GB.1.c
+  ** Fragment GB.1.d
+  ** Fragment GB.1.e
+  ** Fragment GB.1.f
+  ** Dump Listing
+  ** Fragment GB.1.All
+  ** Fragment GB.2
+  ** Dump Symbols
+  ** Fragment GB.2.All
+  ** Fragment GB.3.a
+  ** Fragmnet GB.3.b
+  ** Fragment GB.3.All (TODO)
 * Hints Revisited
 * Hall of Fame
-** Credits
+  ** Credits
 * Job Titles
 * Secret in-game end message
 * Appendix A: Sector Interleave
