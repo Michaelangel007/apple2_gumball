@@ -41,7 +41,7 @@ has been seen only by the author.
 
 Today we'll discover some easter eggs hidden
 in Br0derbund's "Gumball". A regular player 
-will _never_ see these since they are never shown. 
+will _never_ see these since they are never shown (aside from the hints.)
 They are "remnants" left over from the build process.
 And the only way to view them is to either
 
