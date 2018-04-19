@@ -56,6 +56,13 @@ editor -- "Copy ][ Plus" is the standard 'go to too'
 that we'll use.
 
 
+# Pictures
+
+Here is what we'll be looking at:
+
+* ![source_3a.png[(source_3a.png)
+* ![source_3b.png](source_3b.png)
+
 
 # Pre-requisites
 
