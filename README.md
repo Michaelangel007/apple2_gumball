@@ -395,6 +395,10 @@ is too boot the game up and inspect memory at the title sequence.
 
 From AppleWin:
 
+* Mount disk
+* Press `F2` to re-boot
+* Wait for title screen
+* Press `F7` to enter the debugger
 * `bsave "gumball.fragment.1.1800",1800:1FFF`
 
 
