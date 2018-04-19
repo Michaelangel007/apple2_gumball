@@ -27,6 +27,7 @@ Revised: April 19, 2018
   * Credits
 * Job Titles
 * Secret in-game end message
+* Conclusion
 * Appendix A: Sector Interleave
 
 
@@ -1148,6 +1149,11 @@ Who knew that it was never publically announced.
 DOH!
 
 Oh well, it's been 20 years of fun knowing about these hidden treasures!
+
+
+# Conclusion
+
+Who knew that a WHOLE Track+ (20 sectors) of source was on disk!
 
 
 # Appendix A: Sector Interleave
