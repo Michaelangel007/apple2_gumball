@@ -419,9 +419,16 @@ Here's a C program, [dump_list.c](dump_list.c), to dump the fragment:
 
 // Main
 
-    int main()
+    int main( const int nArg, const char *aArg[] )
     {
         const char *name = "gumball.fragment.1.1800";
+
+        if( nArg > 1 )
+        {
+            name = aArg[1];
+            printf( "Filename: %s\n", name );
+        }
+
         FILE       *in   = fopen( name, "rb" );
 
         if( in )
