@@ -138,7 +138,8 @@ Still let's see what treasure we can "mine" by "spelunking."
 
 ## Fragment GB.1.a
 
-I'm call this Source Code Fragment `GB.1._x_`
+I'm going to use the nomenclature and call these
+source code fragments `GB.#._` -- i.e. GB.1.a, GB.2.b, etc.
 
 Since we have two disk images:
 
