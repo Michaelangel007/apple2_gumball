@@ -60,7 +60,7 @@ that we'll use.
 
 Here is what we'll be looking at:
 
-* ![source_3a.png[(source_3a.png)
+* ![source_3a.png](source_3a.png)
 * ![source_3b.png](source_3b.png)
 
 
