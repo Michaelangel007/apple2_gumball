@@ -1,5 +1,14 @@
-all: dump_frag
+TARGETS = dump_list
+all: $(TARGETS)
 
-dump_frag: dump_frag.c
+.PHONY: clean
+
+clean:
+	$(RM) $(TARGETS)
+
+dump_list: dump_list.c
+	gcc -o $@ $<
+
+dump_sym: dump_sym.c
 	gcc -o $@ $<
 
